@@ -1,6 +1,6 @@
 {
   "name": "@pyroswap/uikit",
-  "version": "0.34.0",
+  "version": "0.34.1",
   "description": "Set of UI components for pyro projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
