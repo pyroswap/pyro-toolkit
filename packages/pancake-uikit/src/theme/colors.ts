@@ -1,13 +1,13 @@
 import { Colors } from "./types";
 
 export const baseColors = {
-  failure: "#ED4B9E",
-  primary: "#1FC7D4",
-  primaryBright: "#53DEE9",
-  primaryDark: "#0098A1",
+  failure: "#F72B50",
+  primary: "#B80F0A",
+  primaryBright: "#e66000",
+  primaryDark: "#540B0C",
   secondary: "#7645D9",
-  success: "#31D0AA",
-  warning: "#FFB237",
+  success: "#68CF29",
+  warning: "#FFAB2D",
 };
 
 export const additionalColors = {
@@ -46,22 +46,22 @@ export const lightColors: Colors = {
 export const darkColors: Colors = {
   ...baseColors,
   ...additionalColors,
-  secondary: "#9A6AFF",
-  background: "#08060B",
+  secondary: "#e9f1fd",
+  background: "#16161d",
   backgroundDisabled: "#3c3742",
   backgroundAlt: "#27262c",
   cardBorder: "#383241",
   contrast: "#FFFFFF",
   dropdown: "#1E1D20",
   dropdownDeep: "#100C18",
-  invertedContrast: "#191326",
-  input: "#372F47",
+  invertedContrast: "#0a0e17",
+  input: "#483f3b",
   inputSecondary: "#262130",
-  primaryDark: "#0098A1",
-  tertiary: "#353547",
-  text: "#F4EEFF",
+  primaryDark: "#420D09",
+  tertiary: "#2d2f37",
+  text: "#FFFFFF",
   textDisabled: "#666171",
-  textSubtle: "#B8ADD2",
+  textSubtle: "#FC7405",
   borderColor: "#524B63",
   gradients: {
     bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",

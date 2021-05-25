@@ -1,6 +1,18 @@
 import { FC } from "react";
 import { SvgProps } from "../../components/Svg/types";
 
+export type ConnectorId =
+  | "authereum"
+  | "fortmatic"
+  | "frame"
+  | "injected"
+  | "portis"
+  | "squarelink"
+  | "torus"
+  | "walletconnect"
+  | "walletlink"
+  | "bsc";
+
 export enum ConnectorNames {
   Injected = "injected",
   WalletConnect = "walletconnect",
