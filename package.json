@@ -2,7 +2,7 @@
   "name": "pyro-toolkit",
   "version": "1.0.1",
   "description": "Pyro frontend packages",
-  "private": false,
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
@@ -31,7 +31,7 @@
     "@babel/preset-env": "^7.14.1",
     "@commitlint/cli": "^12.1.1",
     "@commitlint/config-conventional": "^12.1.1",
-    "@pancakeswap-libs/eslint-config-pancake": "0.1.0",
+    "@pyroswap-libs/eslint-config-pyro": "1.0.1",
     "@rollup/plugin-typescript": "^8.2.1",
     "@rollup/plugin-url": "^6.0.0",
     "@storybook/addon-a11y": "^6.2.9",
