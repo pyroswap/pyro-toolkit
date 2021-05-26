@@ -57,6 +57,7 @@ export { default as ProgressBunny } from "./Icons/ProgressBunny";
 export { default as WaitIcon } from "./Icons/Wait";
 export { default as Won } from "./Icons/Won";
 export { default as TeamPlayerIcon } from "./Icons/TeamPlayer";
+export { default as ReferralIcon } from "./Icons/Referral";
 export { default as TestnetIcon } from "./Icons/Testnet";
 export { default as Ticket } from "./Icons/Ticket";
 export { default as TicketRound } from "./Icons/TicketRound";

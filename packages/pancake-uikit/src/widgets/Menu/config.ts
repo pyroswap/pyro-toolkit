@@ -52,6 +52,11 @@ export const links = [
     href: "/lottery",
   },
   {
+    label: "Referral",
+    icon: "ReferralIcon",
+    href: "/referral",
+  },
+  {
     label: "NFT",
     icon: "NftIcon",
     href: "/nft",
