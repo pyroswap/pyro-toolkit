@@ -100,10 +100,6 @@ export const links = [
         label: "Pairs",
         href: "https://pancakeswap.info/pairs",
       },
-      {
-        label: "Accounts",
-        href: "https://pancakeswap.info/accounts",
-      },
     ],
   },
   {
