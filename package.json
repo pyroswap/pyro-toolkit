@@ -2,7 +2,7 @@
   "name": "pyro-toolkit",
   "version": "1.0.4",
   "description": "Pyro frontend packages",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
